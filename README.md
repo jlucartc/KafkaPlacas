@@ -1,2 +1,2 @@
 # KafkaPlacas
-Utilização de Apache Kafka para produzir e consumir número de placas de automóveis
+Utilização de Apache Kafka para produzir e consumir números de placas de automóveis
